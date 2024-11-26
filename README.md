@@ -541,7 +541,7 @@ Total deals: 489
 | 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
 | 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2024_CODE* . Nov 17 - Dec 2 |
 | 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
-
+| ⚡️ | [FlashPanel](https://flashpanel.io) | FlashPanel is a powerful, user-friendly web server control panel designed to simplify server management for developers and IT teams. With support for multiple VPS providers, advanced database management, SSL, automation, and one-click installs for popular apps like WordPress and uptime monitoring tools, FlashPanel streamlines server management into a seamless experience. | **50% OFF** once off *3ATqm2sd* . Nov 25 - Dec 30 |
 
 
 [⬆️ Go to Top](#table-of-contents)
